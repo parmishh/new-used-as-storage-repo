@@ -27,3 +27,6 @@
 
 ![aws](https://user-images.githubusercontent.com/91942072/212120594-b36b7226-20f8-427c-a81f-8f7ac7768a14.png)
 
+
+
+![aws2](https://user-images.githubusercontent.com/91942072/212121371-df6b84f3-cb59-46d4-aed6-62a409938500.png)
