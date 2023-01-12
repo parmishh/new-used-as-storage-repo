@@ -21,3 +21,9 @@
 ![twitter](https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png)
 ![typescript](https://user-images.githubusercontent.com/91942072/212115550-e03ac7d7-8623-4f69-8e24-1f86fe4ae698.svg)
 
+![chef](https://user-images.githubusercontent.com/91942072/212120555-bc5b94c8-dbf4-4ef2-bf3e-b592be08fdc3.svg)
+
+
+
+![aws](https://user-images.githubusercontent.com/91942072/212120594-b36b7226-20f8-427c-a81f-8f7ac7768a14.png)
+
