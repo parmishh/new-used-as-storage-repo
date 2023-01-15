@@ -81,3 +81,30 @@
 
 
 
+![wifi](https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif)
+
+
+![pandas](https://user-images.githubusercontent.com/91942072/212535640-40886b8e-f4da-4c82-8e2a-bf60673676a4.png)
+
+![bars](https://user-images.githubusercontent.com/91942072/212535650-7b8e6a0e-0310-4654-906e-b71844a30c1e.gif)
+
+![catcode](https://user-images.githubusercontent.com/91942072/212535656-bc29d32d-94c9-4a2f-9d64-ef10ef3edf87.gif)
+
+
+![coder](https://user-images.githubusercontent.com/91942072/212535661-838947d6-c391-4ef5-8fd2-ac5d2adf2936.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
