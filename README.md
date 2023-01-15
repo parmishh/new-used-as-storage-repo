@@ -74,6 +74,9 @@
 ![Python](https://user-images.githubusercontent.com/91942072/212535009-17895c36-10dc-4d6a-80c1-772498267310.png)
 
 
+![linux](https://user-images.githubusercontent.com/91942072/212535395-874e3777-ab52-41e9-a9a3-5c2730e1c9e7.png)
+![mysql2](https://user-images.githubusercontent.com/91942072/212535399-945f02b8-ab90-4dfc-9536-c12216e98938.png)
+![mysql1](https://user-images.githubusercontent.com/91942072/212535401-5e4f6643-ea53-43da-9616-275af159db5b.png)
 
 
 
