@@ -41,5 +41,40 @@
 
 
 
+![node1](https://user-images.githubusercontent.com/91942072/212534980-e1cbb75e-84bb-49a3-83e5-812dd96cc4c9.png)
+
+![mongo](https://user-images.githubusercontent.com/91942072/212534981-676110a3-fe3e-41be-b554-21cae5da6d8c.png)
+
+
+
+
+
+![docker](https://user-images.githubusercontent.com/91942072/212534986-441c5f12-2e86-423b-a686-9633293f486e.png)
+
+
+
+
+![redux](https://user-images.githubusercontent.com/91942072/212534992-2b37c225-0388-426a-aae6-cbd23baacc01.png)
+
+
+
+![node2](https://user-images.githubusercontent.com/91942072/212535002-20886981-694e-49af-a326-01bbd417bc8b.png)
+
+
+
+
+
+![express1](https://user-images.githubusercontent.com/91942072/212535004-38a2cc53-be03-414e-b033-12d182f9e94b.png)
+
+
+
+![js](https://user-images.githubusercontent.com/91942072/212535006-883f06b7-74e4-4634-9044-bc248b74fe90.png)
+
+
+![Python](https://user-images.githubusercontent.com/91942072/212535009-17895c36-10dc-4d6a-80c1-772498267310.png)
+
+
+
+
 
 
