@@ -146,6 +146,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ![qwick](https://user-images.githubusercontent.com/91942072/215113897-eca77814-c446-4b06-b1c3-9dd12bfa3c0a.jpg)
 
 
@@ -155,4 +164,17 @@
 ![icons8-typescript-48](https://user-images.githubusercontent.com/91942072/221436187-5034305a-8000-4858-9c6a-0eaf4d8dd965.png)
 
 ![icons8-github-50](https://user-images.githubusercontent.com/91942072/221437802-e040e6e4-6757-42ae-b1d2-f3abb14d6d50.png)
+
+<img width="834" alt="game" src="https://user-images.githubusercontent.com/91942072/221438069-9c754877-9dc0-4769-9446-a50b2fce899f.PNG">
+
+
+
+
+![yt](https://user-images.githubusercontent.com/91942072/221438072-f4dc1e8e-c454-4f04-8ffd-8280383973e1.png)
+
+![1](https://user-images.githubusercontent.com/91942072/221438076-7b4c620c-cb66-4f59-a230-3d69641d7047.png)
+
+![123](https://user-images.githubusercontent.com/91942072/221438104-fc803dfc-3f6d-432b-a023-eed20756363f.png)
+
+
 
